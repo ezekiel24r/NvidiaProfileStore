@@ -33,7 +33,7 @@ First things first, **create a system restore point before you change all this s
 
 - Check to make sure Resizable Bar is enabled
 
-My computer by default already enabled intel's turbo boost technology, which allows the OS to do a substantial overclock. You can see this happening in the Intel XTU tool if you do the stress test.
+- My computer by default already enabled intel's turbo boost technology, which allows the OS to do a substantial overclock. You can see this happening in the Intel XTU tool if you do the stress test.
 
 **Windows Settings**
 
