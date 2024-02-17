@@ -116,7 +116,9 @@ My computer by default already enabled intel's turbo boost technology, which all
 
 **Microsoft Flight Simulator Settings**
 
-- PC (Flatscreen) settings
+- opt into the SU15 beta on steam
+
+- **PC (Flatscreen) settings**
 
 ![Screenshot 2024-02-17 112909](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/9e58b754-ec45-4e98-8999-977737016db4)
 ![Screenshot 2024-02-17 113152](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/f2258548-5846-42e6-8a0a-f1db764c79a2)
@@ -126,7 +128,7 @@ My computer by default already enabled intel's turbo boost technology, which all
 
 - Restart MSFS to actually get that texture setting to change.
 
-**VR Settings**
+- **VR Settings**
 
 ![Screenshot 2024-02-17 114748](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/8d641df5-f36f-4ec8-8f86-6255756eb3f0)
 
