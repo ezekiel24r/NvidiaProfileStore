@@ -97,9 +97,9 @@ My computer by default already enabled intel's turbo boost technology, which all
 
 - In the top toolbar, click "Export user defined profiles" and check the boxes for the base profile and Microsoft Flight Simulator. Hold on to this file somewhere to revert incase anything gets weird. You can also revert everything to nvidia defaults through the app if things really go wrong.
 
-- You can import my profile settings from the github file on the page here
+- You can find my profile settings on this github page by looking at the repo files
 
-- Download the VR Good Performance.nip file and import it within the Nvidia Profile Inspector
+- Download the VR Good Performance.nip file and import it within the Nvidia Profile Inspector (top toolbar -> Import Profiles...)
 	- It's on this github page but if you are struggling to find it you can click [here](http://https://github.com/ezekiel24r/NvidiaProfileStore/blob/56490abf1079c091f9a9cc02bceb43100476ea4f/VR%20Good%20Performance.nip "here")
 
 - This configures a DLSS 0.8 render scale, which greatly increases the quality of DLSS. At the same time though it will make all DLSS settings look pretty much the same so you wont get the huge FPS increase that performance and high performance settings would give you at the loss of quality.
