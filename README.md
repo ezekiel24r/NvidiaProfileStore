@@ -43,7 +43,7 @@ My computer by default already enabled intel's turbo boost technology, which all
 - Power Plan Setting to High Performance
 - Edit properties of all USB Hubs in Device Manager and disable "Allow the computer to turn off this device to save power"
 - In Virus & Threat protection settings: Add a scan exclusion to the Oculus folder
-- You probably dont need to do this, its a security risk, but maybe it helps?
+    - You probably dont need to do this, its a security risk, but maybe it helps?
 
 **Oculus App**
 
