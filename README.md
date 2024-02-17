@@ -111,6 +111,8 @@ My computer by default already enabled intel's turbo boost technology, which all
 
 - Reboot your PC and check that changes listed above were applied (0.8 render scale, rbar enabled, LOD bias -2.5)
 
+**- Future Nvidia Driver updates will probably revert these settings automatically, so check your profile settings after a driver update if the performance isnt to your liking.**
+
 **Microsoft Flight Simulator Settings**
 
 - PC (Flatscreen) settings
