@@ -118,35 +118,28 @@ My computer by default already enabled intel's turbo boost technology, which all
 
 - opt into the SU15 beta on steam
 
-- **PC (Flatscreen) settings**
-
+	- **PC (Flatscreen) settings**
 ![Screenshot 2024-02-17 112909](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/9e58b754-ec45-4e98-8999-977737016db4)
 ![Screenshot 2024-02-17 113152](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/f2258548-5846-42e6-8a0a-f1db764c79a2)
 ![Screenshot 2024-02-17 113230](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/4c2474ba-87f7-40aa-ba9a-766e07a0f390)
+		- These seem to make a difference somehow... The main thing to change is texture resolution to the same as your VR setting, in this case, Medium. I usually have my Terrain LOD way higher on flatscreen, it's just low in this screenshot because I was testing things.
+    
+		- Restart MSFS to actually get that texture setting to change.
 
-- These seem to make a difference somehow... The main thing to change is texture resolution to the same as your VR setting, in this case, Medium. I usually have my Terrain LOD way higher on flatscreen, it's just low in this screenshot because I was testing things.
-
-- Restart MSFS to actually get that texture setting to change.
-
-- **VR Settings**
-
+	- **VR Settings**
 ![Screenshot 2024-02-17 114748](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/8d641df5-f36f-4ec8-8f86-6255756eb3f0)
-
 ![Screenshot 2024-02-17 113900](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/1f728a55-3907-4215-8501-ee7c72ea1f33)
+		- I know, there are alot of things on Low, but honestly you can't see things that far away in VR anyway.
 
+		- Having your Rolling Cache working properly and flying in a location you've flown before is a huge performance increase.
 
+		- Reduce Traffic settings to 0 or very low values. Multiplayer off.
 
-- I know, there are alot of things on Low, but honestly you can't see things that far away in VR anyway.
+			- You could try these out with VR, I just haven't yet.
 
-- Having your Rolling Cache working properly and flying in a location you've flown before is a huge performance increase.
+		- Under Experimental, turn on Low Power Mode
 
-- Reduce Traffic settings to 0 or very low values. Multiplayer off.
-
-	- You could try these out with VR, I just haven't yet.
-
-- Under Experimental, turn on Low Power Mode
-
-	- Hides the 3D hanger and plane in the main menu when starting MSFS.
+			- Hides the 3D hanger and plane in the main menu when starting MSFS.
 
 **TAA vs DLSS**
 
@@ -174,7 +167,7 @@ My computer by default already enabled intel's turbo boost technology, which all
 
 - Start Oculus Debug Tool, Oculus Tray Tool, and Oculus App
 
-- 	The OVRServer console window should already popup when your computer starts if you made the window "always visible"
+	- The OVRServer console window should already popup when your computer starts if you made the window "always visible"
 
 - Turn on your headset, plug in link cable to headset, and connect with Quest Link
 
