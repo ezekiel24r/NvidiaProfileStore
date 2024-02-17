@@ -50,6 +50,7 @@ My computer by default already enabled intel's turbo boost technology, which all
 - For the Quest3 Headset: 72hz refresh rate, resolution manual and maxed out to the right.
 - Make sure Oculus is set as the OpenXR runtime
 	- Settings -> General - > OpenXR Runtime- > Set Meta Quest Link as active runtime. If its disabled then its already set.
+
 **Oculus Debug Tool**
 
 ![Screenshot 2024-02-17 103708](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/ea596cda-31d3-4b51-9989-76247bc15c25)
