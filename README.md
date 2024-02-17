@@ -187,7 +187,7 @@ My computer by default already enabled intel's turbo boost technology, which all
 
 - There is still a huge difference in performance with where you choose to fly in MSFS. Flying out of my home airport of KCMA is incredible performance, and visually looks stunning. Flying just over the hill by KLAX may push you to reduce your Terrain and Object LOD, or change DLSS to performance.
 
-- Because my profile in Nvidia Profile Inspector fixed DLSS to a 0.8 render scale, the other DLSS settings don't really look any different, because they all go to 0.8 scale. I do seem to notice some difference in fidelity and fps when switching between quality and performance modes, but not as without this change.
+- Because my profile in Nvidia Profile Inspector fixed DLSS to a 0.8 render scale, the other DLSS settings don't really look any different, because they all go to 0.8 scale. I do seem to notice some difference in fidelity and fps when switching between quality and performance modes, but not as much before this change.
 
 	- Also, this will give you the "Ultra Quality" DLSS setting in MSFS (yay) but really just keep DLSS on "Quality", I can't tell much of a difference and I think it's just worst FPS.
 
