@@ -22,7 +22,7 @@ My System Info (yours doesn't have to match, this is just for reference)
 - Nvidia Game Ready Driver 551.52 (and Enabled Experimental Features)
 - Meta Link App Version 62.0.0.235.346 (Opted out of Public Test Channel)
 - Oculus Debug Tool Version 62.0.0.235.346
-- Oculus Tray Tool
+- Oculus Tray Tool 0.87.8.0
 - OpenXR Toolkit v1.3.2
 
 Alright here comes the wall of text:
