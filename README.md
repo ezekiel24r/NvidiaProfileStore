@@ -29,14 +29,14 @@ Alright here comes the wall of text:
 
 First things first, **create a system restore point before you change all this stuff incase something goes wrong.**
 
-**Bios settings
-**
+**Bios settings**
+
 - Check to make sure Resizable Bar is enabled
 
 My computer by default already enabled intel's turbo boost technology, which allows the OS to do a substantial overclock. You can see this happening in the Intel XTU tool if you do the stress test.
 
-**Windows Settings:
-**
+**Windows Settings**
+
 - Disable Hardware-accelerated GPU scheduling
 - Turn on Variable Refresh Rate
 - Turn off Core Isolation (look up the risks if you dont understand what this is)
@@ -61,8 +61,7 @@ My computer by default already enabled intel's turbo boost technology, which all
 - These are my settings, YMMV
 - You could probably put the Dynamic Bitrate Max higher, but 200 seems fine to me.
 
-**Oculus Tray Tool
-**
+**Oculus Tray Tool**
 
 ![Screenshot 2024-02-17 104121](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/f59aa321-5826-4ff1-b4fc-eb2382a71bb4)
 ![Screenshot 2024-02-17 104502](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/67af9e19-8949-4cbc-b3a7-7affcd12cf64)
@@ -78,8 +77,7 @@ My computer by default already enabled intel's turbo boost technology, which all
 
 - Also, when you change the ASW mode it changes it on the fly, so play around with 45hz (on) or Off (no ASW) while in the sim. Auto mode is supposed to do this automatically based on framerate, but I just choose 45hz or off.
 
-**OpenXR Toolkit Companion App
-**
+**OpenXR Toolkit Companion App**
 
 ![Screenshot 2024-02-17 121150](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/6bfa658d-2606-4269-9ed2-04787d795b4b)
 
@@ -87,12 +85,12 @@ My computer by default already enabled intel's turbo boost technology, which all
 
 - Make sure it's not disabled
 
-**NVIDIA GeForce Experience App
-**
+**NVIDIA GeForce Experience App**
+
 - Turn off the Nvidia Game Overlay
 
-**Nvidia Profile Inspector
-**
+**Nvidia Profile Inspector**
+
 - Download Nvidia Profile Inspector
 
 - This could screw up your other games or flatscreen experiences, so make a backup!
@@ -113,8 +111,8 @@ My computer by default already enabled intel's turbo boost technology, which all
 
 - Reboot your PC and check that changes listed above were applied (0.8 render scale, rbar enabled, LOD bias -2.5)
 
-**Microsoft Flight Simulator Settings
-**
+**Microsoft Flight Simulator Settings**
+
 - PC (Flatscreen) settings
 
 ![Screenshot 2024-02-17 112909](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/9e58b754-ec45-4e98-8999-977737016db4)
@@ -125,8 +123,7 @@ My computer by default already enabled intel's turbo boost technology, which all
 
 - Restart MSFS to actually get that texture setting to change.
 
-**VR Settings
-**
+**VR Settings**
 
 ![Screenshot 2024-02-17 113800](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/6baafc62-0021-4cf9-980d-a398b2f2fc12)
 ![Screenshot 2024-02-17 113900](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/1f728a55-3907-4215-8501-ee7c72ea1f33)
@@ -145,12 +142,11 @@ My computer by default already enabled intel's turbo boost technology, which all
 
 	- Hides the 3D hanger and plane in the main menu when starting MSFS.
 
-**TAA vs DLSS
-**
+**TAA vs DLSS**
+
 - With all the settings described TAA will produce better readability for glass instruments, while DLSS will have a slight blur that can make glass instruments hard to read when you are sitting far away from them (like in an airliner). If your not reading glass however, DLSS is the way to go. Switch between them on the fly for what you want.
 
-**OpenXR Toolkit Settings
-**
+**OpenXR Toolkit Settings**
 
 ![Screenshot 2024-02-17 123156](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/4a23b922-788c-4187-96a6-c85b569666fe)
 
@@ -164,8 +160,8 @@ My computer by default already enabled intel's turbo boost technology, which all
 
 - If you have a problem with reading things because you looking closely inward (an eye is looking inward towards your nose), try bumping up the horizontal scale of the foveated rendering or just play around with the inner ring size.
 
-**How to start all the software for a VR session
-**
+**How to start all the software for a VR session**
+
 - Restart your computer
 
 	- Some of the steps above wont apply till you restart your computer. Also it's a good idea to always restart your computer before starting a VR session, some apps hog VRAM after you have been using the PC for a bit.
@@ -182,8 +178,8 @@ My computer by default already enabled intel's turbo boost technology, which all
 
 - When you start a flight, you may have to change the ASW mode in the oculus tray tool to off and then to 45hz. You can also try the other settings if you like, but 45hz has produced the most solid performance and visuals for me. Some people really don't like ASW, and are ok with lower fps having it off, but to each their own.
 
-**Caveats
-**
+**Caveats**
+
 - 45hz ASW will produce some screen tearing when moving your head quickly, but for me seeing things at the headset's 72hz is worth it.
 
 - There is still a huge difference in performance with where you choose to fly in MSFS. Flying out of my home airport of KCMA is incredible performance, and visually looks stunning. Flying just over the hill by KLAX may push you to reduce your Terrain and Object LOD, or change DLSS to performance.
