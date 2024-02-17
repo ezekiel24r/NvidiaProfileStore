@@ -128,7 +128,8 @@ My computer by default already enabled intel's turbo boost technology, which all
 
 **VR Settings**
 
-![Screenshot 2024-02-17 113800](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/6baafc62-0021-4cf9-980d-a398b2f2fc12)
+![Screenshot 2024-02-17 114748](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/8d641df5-f36f-4ec8-8f86-6255756eb3f0)
+
 ![Screenshot 2024-02-17 113900](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/1f728a55-3907-4215-8501-ee7c72ea1f33)
 
 
