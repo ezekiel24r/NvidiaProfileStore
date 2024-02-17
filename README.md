@@ -189,7 +189,7 @@ My computer by default already enabled intel's turbo boost technology, which all
 
 - Because my profile in Nvidia Profile Inspector fixed DLSS to a 0.8 render scale, the other DLSS settings don't really look any different, because they all go to 0.8 scale. I do seem to notice some difference in fidelity and fps when switching between quality and performance modes, but not as much before this change.
 
-	- Also, this will give you the "Ultra Quality" DLSS setting in MSFS (yay) but really just keep DLSS on "Quality", I can't tell much of a difference and I think it's just worst FPS.
+	- Also, this will give you the "Ultra Quality" DLSS setting in MSFS (yay) but really just keep DLSS on "Quality", I can't tell much of a difference and I think it's just worse FPS.
 
 - As mentioned previously, this will probably affect your other games because you are changing the **Global** driver profile for Nvidia. That's why you should make the backup.
 
