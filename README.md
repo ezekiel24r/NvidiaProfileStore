@@ -35,7 +35,7 @@ First things first, **create a system restore point before you change all this s
 
 - Overclocking settings to your preference
 	- My computer by default already enabled intel's turbo boost technology, which allows the OS to do a substantial overclock. You can see this happening in the Intel XTU tool if you do the stress test.
- 	- **Advanced:** The setting CPU Lite Load can help undervolt your CPU which can reduce the thermal output of the CPI. Mine is set to 3, but you might need to find the right setting for your PC beucase low values can cause applications to crash and also blue screen your PC.
+ 	- **Advanced:** The setting CPU Lite Load can help undervolt your CPU which can reduce the thermal output of the CPI. Mine is set to 3, but you might need to find the right setting for your PC because low values can cause applications to crash and also blue screen your PC.
 
 **Windows Settings**
 
