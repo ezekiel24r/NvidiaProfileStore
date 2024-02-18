@@ -1,4 +1,4 @@
-# VR Settings Guide for MSFS2020 with RTX 3070 & Quest 3 Link Cable
+e# VR Settings Guide for MSFS2020 with RTX 3070 & Quest 3 Link Cable
 
 This was orignially a reddit post but reddit did not like me posting image links.
 
@@ -186,7 +186,7 @@ First things first, **create a system restore point before you change all this s
 
 - 45hz ASW will produce some screen tearing when moving your head quickly, but for me seeing things at the headset's 72hz is worth it.
 
-- There is still a huge difference in performance with where you choose to fly in MSFS. Flying out of my home airport of KCMA is incredible performance, and visually looks stunning. Flying just over the hill by KLAX may push you to reduce your Terrain and Object LOD, or change DLSS to performance.
+- There is still a huge difference in performance with where you choose to fly in MSFS. Flying out of my home airport of KCMA is incredible performance, and visually looks stunning. Flying just over the hill by KLAX may push you to reduce your settings.
 
 - Because my profile in Nvidia Profile Inspector fixed DLSS to a 0.8 render scale, the other DLSS settings don't really look any different, because they all go to 0.8 scale. I do seem to notice some difference in fidelity and fps when switching between quality and performance modes, but not as much before this change.
 
