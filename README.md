@@ -126,7 +126,9 @@ First things first, **create a system restore point before you change all this s
 ![Screenshot 2024-02-17 112909](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/9e58b754-ec45-4e98-8999-977737016db4)
 ![Screenshot 2024-02-17 113152](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/f2258548-5846-42e6-8a0a-f1db764c79a2)
 ![Screenshot 2024-02-17 113230](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/4c2474ba-87f7-40aa-ba9a-766e07a0f390)
-		- These seem to make a difference somehow... The main thing to change is texture resolution to the same as your VR setting, in this case, Medium. I usually have my Terrain LOD way higher on flatscreen, it's just low in this screenshot because I was testing things.
+		- Just posting this for reference. I don't think any of these settings matter except:
+  			- Texture Resolution set to the same as your VR setting, in this case, Medium.
+     			- DLSS set to High Performance. Seems to help when switching between flatscreen and VR.
     
 		- Restart MSFS to actually get that texture setting to change.
 
