@@ -201,8 +201,10 @@ First things first, **create a system restore point before you change all this s
 	- To fix, just change the DLLS mode from Quality to High Performance and then back to Quality.
 
 **Other things to look into**
-- I haven't disabled High Precision Event Timer in the windows device manager but I've heard that can help with performance too.
+- I haven't disabled High Precision Event Timer in the windows device manager ~~but I've heard that can help with performance too.~~
+	- I'm convinced HPET makes no difference on or off
 - Encode Resolution Width in the Oculus debug tool might be worth upping, I believe 4032 is the max the Nvidia NVEC encoder allows anyway.
+	- I've since upped to 5440, and Nvidia HVEC encoder brings it down to 4032 anyway, so 4032 is the highest you can set it at the moment.
 
 I think that covers everything, I will edit and add to this if I remember anything else I have done that I forgot to write up. Happy flying!
 
