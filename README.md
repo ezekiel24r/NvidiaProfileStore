@@ -70,8 +70,8 @@ First things first, **create a system restore point before you change all this s
 ![Screenshot 2024-02-17 104121](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/f59aa321-5826-4ff1-b4fc-eb2382a71bb4)
 ![Screenshot 2024-02-17 104502](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/67af9e19-8949-4cbc-b3a7-7affcd12cf64)
 
-- **Note: You don't actually need oculus tray tool, you can actually do all of these settings with Oculus Debug Tool.**
-	- However Oculus tray tool does allow lower hz of ASW to be used (18hz an 30hz)**
+- **Note: You don't actually need oculus tray tool, you can actually manage all of these settings with Oculus Debug Tool.**
+	- However Oculus tray tool does allow lower hz of ASW to be used (18hz an 30hz)
 - Find online and download
 
 - Everything else is default.
@@ -79,6 +79,7 @@ First things first, **create a system restore point before you change all this s
 - Main thing here is that you can change your FOV to reduce the render to what your eyes see when the headset is on, and that depends on your IPD so just figure out what works for you.
 
 	- I use 0.95 (horizontal) and 0.85 (Vertical)
+ 	- Note: In Oculus Debug Tool this is the same as changing "FOV-Tangent Multiplier". If you are using that, "Use FOV stencil" should be set to "Auto"
 
 - Also, when you change the ASW mode it changes it on the fly, so play around with 45hz (on) or Off (no ASW) while in the sim. Auto mode is supposed to do this automatically based on framerate, but I just choose 45hz or off.
 
