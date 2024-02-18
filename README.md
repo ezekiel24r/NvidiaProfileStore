@@ -134,7 +134,7 @@ First things first, **create a system restore point before you change all this s
 ![Screenshot 2024-02-17 114748](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/8d641df5-f36f-4ec8-8f86-6255756eb3f0)
 ![Screenshot 2024-02-17 113900](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/1f728a55-3907-4215-8501-ee7c72ea1f33)
 		- I know, there are alot of things on Low, but honestly you can't see things that far away in VR anyway.
-
+			-Edit: I've since upped my Buldings and Trees to Medium and increased the LOD sliders slightly, similar performance and looks great.
 		- Having your Rolling Cache working properly and flying in a location you've flown before is a huge performance increase.
 
 		- Reduce Traffic settings to 0 or very low values. Multiplayer off.
