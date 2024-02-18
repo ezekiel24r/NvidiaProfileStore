@@ -195,6 +195,7 @@ First things first, **create a system restore point before you change all this s
 
 **Other things to look into**
 - I haven't disabled High Precision Event Timer in the windows device manager but I've heard that can help with performance too.
+- Encode Resolution Width in the Oculus debug tool might be worth upping, I believe 4032 is the max the Nvidia NVEC encoder allows anyway.
 
 I think that covers everything, I will edit and add to this if I remember anything else I have done that I forgot to write up. Happy flying!
 
