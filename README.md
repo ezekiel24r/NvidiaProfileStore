@@ -70,7 +70,7 @@ First things first, **create a system restore point before you change all this s
 ![Screenshot 2024-02-17 104121](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/f59aa321-5826-4ff1-b4fc-eb2382a71bb4)
 ![Screenshot 2024-02-17 104502](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/67af9e19-8949-4cbc-b3a7-7affcd12cf64)
 
-- **Note: You don't actually need oculus tray tool, you can actually manage all of these settings with Oculus Debug Tool.**
+- **Note: You don't actually need oculus tray tool, you can actually manage all of the settings in this section with Oculus Debug Tool.**
 	- However Oculus tray tool does allow lower hz of ASW to be used (18hz an 30hz)
 - Find online and download
 
