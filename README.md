@@ -1,4 +1,4 @@
-e# VR Settings Guide for MSFS2020 with RTX 3070 & Quest 3 Link Cable
+# VR Settings Guide for MSFS2020 with RTX 3070 & Quest 3 Link Cable
 
 This was orignially a reddit post but reddit did not like me posting image links.
 
