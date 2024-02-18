@@ -191,6 +191,9 @@ First things first, **create a system restore point before you change all this s
 
 - As mentioned previously, this will probably affect your other games because you are changing the **Global** driver profile for Nvidia. That's why you should make the backup.
 
+**Other things to look into**
+- I haven't disabled High Precision Event Timer in the windows device manager but I've heard that can help with performance too.
+
 I think that covers everything, I will edit and add to this if I remember anything else I have done that I forgot to write up. Happy flying!
 
 TLDR: It takes a shit ton of setup and research to get MSFS VR to work appropriately on your system.
