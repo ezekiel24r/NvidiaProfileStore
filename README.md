@@ -192,6 +192,8 @@ First things first, **create a system restore point before you change all this s
 	- Also, this will give you the "Ultra Quality" DLSS setting in MSFS (yay) but really just keep DLSS on "Quality", I can't tell much of a difference and I think it's just worse FPS.
 
 - As mentioned previously, this will probably affect your other games because you are changing the **Global** driver profile for Nvidia. That's why you should make the backup.
+- For whatever reason, there can be a weird bug where just your left eye will have this terrible compression/temporal aliasing on it
+	- To fix, just change the DLLS mode from Quality to High Performance and then back to Quality.
 
 **Other things to look into**
 - I haven't disabled High Precision Event Timer in the windows device manager but I've heard that can help with performance too.
