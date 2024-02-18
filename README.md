@@ -1,3 +1,5 @@
+# VR Settings Guide for MSFS2020 with RTX 3070
+
 This was orignially a reddit post but reddit did not like me posting image links.
 
 Keep in mind, tuning for VR is extremely dependent on your GPU, CPU, and potentially other system hardware. So this config may only work for systems very similar to mine, and also dependent on the versions on all the software versions I will list. Also, I'm sure there are tons of settings in here that are inconsequential/redundant but I want to capture everything. My goal with configuring my system was to get the cockpit readable with good performance, so without further ado...
