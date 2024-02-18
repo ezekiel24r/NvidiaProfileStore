@@ -2,7 +2,7 @@
 
 This was orignially a reddit post but reddit did not like me posting image links.
 
-Keep in mind, tuning for VR is extremely dependent on your GPU, CPU, and potentially other system hardware. So this config may only work for systems very similar to mine, and also dependent on the versions on all the software versions I will list. Also, I'm sure there are tons of settings in here that are inconsequential/redundant but I want to capture everything. My goal with configuring my system was to get the cockpit readable with good performance, so without further ado...
+Keep in mind, tuning for VR is extremely dependent on your GPU, CPU, and potentially other system hardware. So this config may only work for systems very similar to mine, and also dependent on the versions on all the software versions I will list. Also, I'm sure there are tons of settings in here that are inconsequential/redundant but I want to capture everything. My goal with configuring my system was to get the cockpit readable with good performance. This is just a starting point, feel free to up terrain LOD, object LOD, and Buldings and Trees to Medium if you have a good baseline.
 
 My System Info (yours doesn't have to match, this is just for reference)
 
