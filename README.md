@@ -103,7 +103,7 @@ First things first, **create a system restore point before you change all this s
 
 - In the top toolbar, click "Export user defined profiles" and check the boxes for the base profile and Microsoft Flight Simulator. Hold on to this file somewhere to revert incase anything gets weird. You can also revert everything to nvidia defaults through the app if things really go wrong.
 
-- You can find my profile settings on this github page by looking at the repo files
+- You can find the file on this github page by looking at the repo files
 
 - Download the VR Good Performance.nip file and import it within the Nvidia Profile Inspector (top toolbar -> Import Profiles...)
 	- It's on this github page but if you are struggling to find it you can click [here](http://https://github.com/ezekiel24r/NvidiaProfileStore/blob/56490abf1079c091f9a9cc02bceb43100476ea4f/VR%20Good%20Performance.nip "here")
