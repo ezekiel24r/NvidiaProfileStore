@@ -135,19 +135,15 @@ First things first, **create a system restore point before you change all this s
 		- Restart MSFS to actually get that texture setting to change.
 
 	- **VR Settings**
-![Screenshot 2024-02-17 114748](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/8d641df5-f36f-4ec8-8f86-6255756eb3f0)
-![Screenshot 2024-02-17 113900](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/1f728a55-3907-4215-8501-ee7c72ea1f33)
+![Screenshot 2024-02-18 173941](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/bc0b76a2-e3f0-4af8-a27c-090dbd461f41)
+![Screenshot 2024-02-18 173953](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/cb7dc43e-a9c2-4f32-970d-6dab72d8a29a)
 		- I know, there are alot of things on Low, but honestly you can't see things that far away in VR anyway.
-			- I've since upped my Buldings and Trees to Medium and increased the LOD sliders slightly, similar performance and looks great.
+			- Try setting buildings and trees to Low if the fps is still not good. You can also turn off Grass & Bushes
    			- I have also found that volumentric clouds on high or ultra is ok for my PC in non congested areas, in congested areas I'm not able to do that.
 		- Having your Rolling Cache working properly and flying in a location you've flown before is a huge performance increase.
-
 		- Reduce Traffic settings to 0 or very low values. Multiplayer off.
-
 			- You could try these out with VR, I just haven't yet.
-
 		- Under Experimental, turn on Low Power Mode
-
 			- Hides the 3D hanger and plane in the main menu when starting MSFS.
 
 **TAA vs DLSS**
