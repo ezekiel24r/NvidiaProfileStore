@@ -58,6 +58,8 @@ First things first, **create a system restore point before you change all this s
 **Oculus Debug Tool**
 
 ![Screenshot 2024-02-17 103708](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/ea596cda-31d3-4b51-9989-76247bc15c25)
+
+- **Encoding Resolution Width updated to 4032**
 - Located in your oculus install directory: Oculus\Support\oculus-diagnostics
 - Make a desktop shortcut for easy access.
 - In the top toolbar click on "Service" and "Toggle Console Window Visibility" so it shows the window
