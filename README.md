@@ -1,6 +1,6 @@
 # VR Settings Guide for MSFS2020 with RTX 3070 & Quest 3 Link Cable
 
-**Notice for anyone finding this in the future: I have since upgraded to a 4070 super, much of this guide probably still applies, but I've found with the new card (with higher VRAM) you don't need to fanangle with all these custom settings as much. Now all I do is use oculus tray tool to set ASW to 45Hz. My Nvidia profile is set back to the default settings defined by the driver**
+**Notice for anyone finding this in the future: I have since upgraded to a 4070 super, much of this guide probably still applies, but I've found with the new card (with higher VRAM) you don't need to fanangle with all these settings as much. Now all I do is use oculus tray tool to set ASW to 45Hz. My Nvidia profile is set back to the default settings defined by the driver**
 
 This was orignially a reddit post but reddit did not like me posting image links.
 
