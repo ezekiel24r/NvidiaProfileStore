@@ -88,12 +88,8 @@ First things first, **create a system restore point before you change all this s
 - Also, when you change the ASW mode it changes it on the fly, so play around with 45hz (on) or Off (no ASW) while in the sim. Auto mode is supposed to do this automatically based on framerate, but I just choose 45hz or off.
 
 **OpenXR Toolkit Companion App**
+**THIS IS DEGRADED!! DO NOT USE**
 
-![Screenshot 2024-02-17 121150](https://github.com/ezekiel24r/NvidiaProfileStore/assets/11917879/6bfa658d-2606-4269-9ed2-04787d795b4b)
-
-- Find it online and download
-
-- Make sure it's not disabled
 
 **NVIDIA GeForce Experience App**
 
