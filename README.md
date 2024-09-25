@@ -89,7 +89,7 @@ First things first, **create a system restore point before you change all this s
 
 **OpenXR Toolkit Companion App**
 
-**THIS IS DEGRADED!! DO NOT USE**
+- **THIS IS DEGRADED!! DO NOT USE**
 
 
 **NVIDIA GeForce Experience App**
