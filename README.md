@@ -88,6 +88,7 @@ First things first, **create a system restore point before you change all this s
 - Also, when you change the ASW mode it changes it on the fly, so play around with 45hz (on) or Off (no ASW) while in the sim. Auto mode is supposed to do this automatically based on framerate, but I just choose 45hz or off.
 
 **OpenXR Toolkit Companion App**
+
 **THIS IS DEGRADED!! DO NOT USE**
 
 
